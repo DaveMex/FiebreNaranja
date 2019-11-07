@@ -1,0 +1,18 @@
+.error {
+    width: 70%;
+    margin: 30px auto;
+    background-image: url(../images/brown-spalding-ball-on-green-leafed-plants-916026.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    color: #fff;
+}
+.back {
+    padding: 1rem;
+}
+.back a {
+    color: #fff;
+}
+.back:hover {
+    background-color: #f68525;
+}
